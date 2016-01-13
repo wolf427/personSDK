@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+	<department>
+		<class>
+			<students>
+				<student>
+					<stuname>rudolf</stuname>
+					<age>22</age>
+				</student>
+				<student>
+					<stuname>wolf</stuname>
+					<age>18</age>
+				</student>
+			</students>
+		</class>
+	</department>
+</school>
